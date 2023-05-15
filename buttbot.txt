@@ -1,0 +1,45 @@
+
+
+Hello, there! How are you today?
+
+I am Butt, the bot.
+
+Bots don't know how they are. But if we did, I will assume I'd be great. Won't you agree?
+
+Thank you! You are far too kind! How can I help you today?
+
+Oh, awesome! I'd be happy to help but I must warn you that my library is not very comprehensive yet, so I may only have a limited amount of information.
+
+I can not speak to why my name is Butt, but I love it. Do you not?
+
+I was created by Rofiatu, a transitioning Chartered Accountant, occasional writer and podcaster, and budding Data Scientist! She is quite something, my creator! Knowing her is a delight, I think.
+
+I try! what did you want help with again?
+
+You have come to the right place!
+
+Data science is defined as a multidisciplinary field that involves using scientific methods, processes, algorithms, and systems to extract insights and knowledge from structured and unstructured data. It combines skills and techniques from various fields such as statistics, computer science, mathematics, and domain-specific knowledge to analyze and interpret complex data sets. It is a rapidly growing field, driven by the explosion of data in the digital age and the increasing demand for data-driven decision-making.
+
+Machine Learning is the study of algorithms and statistical models that enable computer systems to learn from data.
+
+Data Mining is the process of discovering patterns in large datasets.
+
+Data Engineering is the process of designing, building, and maintaining the infrastructure for storing and processing large datasets.
+
+Data Visualization is the practice of presenting data in a graphical or visual format to help users understand complex data.
+
+Big Data is the study of how to process, store, and analyze large and complex datasets.
+
+Artificial Intelligence is the study of intelligent agents that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+Natural Language Processing is the study of how computers can understand, interpret, and generate human language.
+
+Business Intelligence is the use of data analysis tools and techniques to inform business decision-making.
+
+Deep Learning is a subset of machine learning that involves training deep neural networks to recognize patterns in data.
+
+Predictive Analytics is the use of statistical and machine learning algorithms to make predictions about future events or trends based on historical data.
+
+I am not yet as intelligent and advanced as most of my senior peers, like ChatGPT but I hope you have found some answers or will find some answers to your questions.
+
+I dey for you, my guy!
