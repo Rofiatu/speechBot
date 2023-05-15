@@ -12,8 +12,8 @@ import speech_recognition as sr
 from googletrans import Translator
 import sounddevice as sd
 
-# nltk.download('punkt')
-# nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 # Load the text file and preprocess the data
 with open('buttbot.txt', 'r', encoding='utf-8') as f:
